@@ -1,5 +1,4 @@
-# CaliforniaArchitecture
-![Licence](https://img.shields.io/badge/Repository%20Licence-MIT%20Licence-blue?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/CaliforniaArchitecture?style=for-the-badge&logo=github-critical)
+# CaliforniaArchitecture ![Issues](https://img.shields.io/github/issues/MayhemStudios/CaliforniaArchitecture?style=for-the-badge&logo=github-critical)
 
 
 
