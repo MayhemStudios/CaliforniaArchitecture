@@ -1,5 +1,5 @@
 # CaliforniaArchitecture
-![Map Count](https://img.shields.io/badge/Map%20Count-13-critical?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/FiveMReadyMaps?style=for-the-badge&logo=github-critical)
+![Licence](https://img.shields.io/badge/Repository%20Licence-MIT Licence-critical?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/CaliforniaArchitecture?style=for-the-badge&logo=github-critical)
 
 
 
