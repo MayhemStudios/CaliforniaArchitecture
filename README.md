@@ -1,6 +1,13 @@
 # CaliforniaArchitecture
+![Map Count](https://img.shields.io/badge/Map%20Count-13-critical?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/FiveMReadyMaps?style=for-the-badge&logo=github-critical)
 
-![Building1](https://img.gta5-mods.com/q95/images/real-freeway-signs/94972e-8.jpg)
+
+
+Table of Information
+| Name of Link | Location of Link|
+|--|--|
+| Join the Discord | [Click here to join](https://discord.gg/b9upz9NkwC) 
+| Original Post | [Click here to view original post](https://www.gta5-mods.com/maps/real-freeway-signs)
 
 
 THis map is a conversion of the California Architecture from the original creator Desmond98.
