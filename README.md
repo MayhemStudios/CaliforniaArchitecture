@@ -1,4 +1,6 @@
-# CaliforniaArchitecture ![Issues](https://img.shields.io/github/issues/MayhemStudios/CaliforniaArchitecture?style=for-the-badge&logo=github-critical)
+# CaliforniaArchitecture 
+
+![Issues](https://img.shields.io/github/issues/MayhemStudios/CaliforniaArchitecture?style=for-the-badge&logo=github-critical)
 
 
 
